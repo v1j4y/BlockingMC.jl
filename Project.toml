@@ -1,0 +1,13 @@
+name = "BlockingMC"
+uuid = "612dba64-e9bb-4bd7-a43b-c097e5099589"
+authors = ["v1j4y <vijay.gopal.c@gmail.com> and contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.8.2"
+
+[targets]
+test = ["Test"]
